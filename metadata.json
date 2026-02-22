@@ -1,0 +1,7 @@
+{
+  "name": "SplitSmart AI",
+  "description": "A modern Splitwise clone featuring smart AI expense parsing and spending insights powered by Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
